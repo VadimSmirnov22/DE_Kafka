@@ -20,4 +20,4 @@
 8. Персистентность датафрейма.
 
 ### Использованные инструменты
-Python, Kafka, PySpark
+Python, Kafka, PySpark, json
